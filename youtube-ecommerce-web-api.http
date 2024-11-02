@@ -1,0 +1,6 @@
+@youtube_ecommerce_web_api_HostAddress = http://localhost:5028
+
+GET {{youtube_ecommerce_web_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

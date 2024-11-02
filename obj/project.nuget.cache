@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zegO38m/rPQ=",
+  "dgSpecHash": "qrH9wu6D/eA=",
   "success": true,
-  "projectFilePath": "D:\\PC\\Desktop\\C#\\Projects\\Projects.csproj",
+  "projectFilePath": "C:\\Users\\PC\\youtube-ecommerce-web-api\\youtube-ecommerce-web-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.10\\microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

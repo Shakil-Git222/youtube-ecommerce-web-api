@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PC\\Desktop\\C#\\Projects\\Projects.csproj",
-      "projectName": "Projects",
-      "projectPath": "D:\\PC\\Desktop\\C#\\Projects\\Projects.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\youtube-ecommerce-web-api\\youtube-ecommerce-web-api.csproj",
+      "projectName": "youtube-ecommerce-web-api",
+      "projectPath": "C:\\Users\\PC\\youtube-ecommerce-web-api\\youtube-ecommerce-web-api.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\PC\\Desktop\\C#\\Projects\\obj\\",
+      "outputPath": "C:\\Users\\PC\\youtube-ecommerce-web-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
